@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: 个人博客
+name: 米宣达的个人博客
+description: 欢迎来到我的个人小站
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/mixuanda/mixuanda.github.io
 rss: true
 
 plugins:
