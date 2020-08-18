@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: 个人博客
-name: 米宣达的个人博客
-description: 欢迎来到我的个人小站
+title: My Blog
+name: Blog for Mi Evan
+description: Welcome to my blog
 
-github: https://github.com/mixuanda/mixuanda.github.io
+github: https://github.com/mixuanda/mixuanda.github.io/
 rss: true
 
 plugins:
